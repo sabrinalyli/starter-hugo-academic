@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "sabrina.li@nottingham.ac.uk "
+    link: "/sabrina.li@nottingham.ac.uk "
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sabrinalyli
@@ -23,6 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/lisabrina/
 organizations:
+  - name: School of Geography
+    url: https://www.nottingham.ac.uk/geography/index.aspx
   - name: "University of Nottingham "
     url: https://www.nottingham.ac.uk/
 education:
