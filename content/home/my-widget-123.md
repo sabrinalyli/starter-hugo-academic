@@ -1,6 +1,6 @@
 ---
 widget: Students
-widget_id: Students
+widget_id: students
 headless: true
 weight: 20
 active: true
