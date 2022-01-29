@@ -46,4 +46,4 @@ My research investigates the interactions between human health and the physical,
 
 Currently, I am investigating how human-environment interactions contribute to the emergence and re-emergence of infectious diseases in Brazil, focusing mainly on arboviral diseases and COVID-19.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+A list of my publications can be found below and on [Google Scholar](https://scholar.google.com/citations?user=_b5ZCnUAAAAJ&hl=en).
