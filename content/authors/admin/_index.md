@@ -1,8 +1,7 @@
 ---
 title: "Sabrina Li "
 role: "Assistant Professor of Quantitative Methods "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Spatial epidemiology
   - Geographic Data Science
@@ -10,33 +9,33 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "sabrina.li@nottingham.ac.uk "
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sabrinalyli
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=_b5ZCnUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sabrinalyli
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/lisabrina/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "University of Nottingham "
+    url: https://www.nottingham.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "DPhil in Geography "
+      institution: "University of Oxford "
+      year: 2021
+    - course: "MSc in Geography "
+      institution: University of Waterloo
+      year: 2017
+    - course: "BASc in Environmental Engineering "
+      institution: University of Waterloo
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
