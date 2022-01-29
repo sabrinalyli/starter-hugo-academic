@@ -1,6 +1,6 @@
 ---
 widget: Students
-widget_id: my-widget-123
+widget_id: Students
 headless: true
 weight: 20
 active: true
