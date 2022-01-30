@@ -1,30 +1,19 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-
-# This file represents a page section.
+widget_id: contact
 headless: true
-
-# Order that this section appears on the page.
 weight: 130
-
 title: Contact
-subtitle:
-
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
 design:
-  columns: '2'
+  columns: "2"
 ---
+I am keen to supervise independent and motivated Masters and PhD students with various backgrounds who have an interest in the aforementioned research topics. If my work is of interest to you, please send me an [email](mailto:sabrina.li@nottingham.ac.uk) with your CV and a brief statement of your research ideas and interests.
