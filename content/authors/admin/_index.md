@@ -42,7 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-My research investigates the interactions between human health and the physical, social, and built environments. In particular, I am interested in understanding why certain populations are more susceptible to diseases and ill health than others, and the assessment of differential health impacts experienced by disadvantaged populations. Most of my work focuses on the social and environmental determinants of health in the context of low- and middle-income countries. To address the complexity of these research areas, I utilise big spatial data and tools from GIS and quantitative methods.
+I am an Assistant Professor of Quantitative Methods at the School of Geography, University of Nottingham, UK. My research investigates the interactions between human health and the physical, social, and built environments. In particular, I am interested in understanding why certain populations are more susceptible to diseases and ill health than others, and the assessment of differential health impacts experienced by disadvantaged populations. Most of my work focuses on the social and environmental determinants of health in the context of low- and middle-income countries. To address the complexity of these research areas, I utilise big spatial data and tools from GIS and quantitative methods.
 
 Currently, I am investigating how human-environment interactions contribute to the emergence and re-emergence of infectious diseases in Brazil, focusing mainly on arboviral diseases and COVID-19.
 
