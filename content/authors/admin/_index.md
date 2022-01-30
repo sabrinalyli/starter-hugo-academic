@@ -1,5 +1,5 @@
 ---
-title: "Sabrina Li "
+title: "Dr. Sabrina Li "
 role: "Assistant Professor of Quantitative Methods "
 bio: ""
 interests:
